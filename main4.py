@@ -88,7 +88,7 @@ class Worker(Person):
         self.info_worker()
 
 
-# Приклад використання
+# Приклад використаня
 
 group = Group(group_name="IT-22", age_category="18-22")
 
