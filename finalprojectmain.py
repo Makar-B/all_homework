@@ -106,7 +106,7 @@ def convert_to_dateweather(data):
 
 if __name__ == "__main__":
     db_name = "weather.db"
-    weather_url = "https://example.com/weather"  # Заміна на реальний сайт
+    weather_url = "https://example.com/weather"
 
     initialize_database(db_name)
 
